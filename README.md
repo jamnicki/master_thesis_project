@@ -1,7 +1,14 @@
 # Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques
 
+## Purpose and scope of work
 Large language models are pivotal in natural language understanding, machine translation, and various AI applications; their training data is critical in their performance and scalability. This study analyzes and compares data preparation techniques for large language models, considering their cost-effectiveness and
 adaptation to the new domains.
+
+## Tasks to be performed / scope of the thesis
+1. Literature Review,
+2. Data Collection and Preprocessing,
+3. Development and evaluation of data preparation techniques for LLMs,
+4. Writing the thesis.
 
 ## Bibliography
 1. Gunasekar, S., Zhang, Y., Aneja, J., Mendes, C. C., Del Giorno, A., Gopi, S., Javaheripi, M., Kauffmann, P., De Rosa, G., Saarikivi, O., Salim, A., Shah, S., Behl, H. S., Wang, X., Bubeck, S., Eldan, R., Kalai, A. T., Lee, Y. T., & Li, Y. (2023). Textbooks Are All You Need. ArXiv. /abs/2306.11644
