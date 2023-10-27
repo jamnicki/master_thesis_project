@@ -1,0 +1,15 @@
+python-dotenv
+black[jupyter]
+isort
+
+pandas[all]
+
+notebook
+nbconvert
+jupyter
+ipykernel
+ipywidgets
+tqdm
+loguru
+matplotlib
+seaborn
