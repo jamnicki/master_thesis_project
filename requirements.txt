@@ -2,6 +2,9 @@ python-dotenv
 black[jupyter]
 isort
 
+transformers
+datasets
+
 pandas[all]
 
 notebook
@@ -13,3 +16,4 @@ tqdm
 loguru
 matplotlib
 seaborn
+GitPython

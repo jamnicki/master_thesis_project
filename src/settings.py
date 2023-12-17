@@ -1,5 +1,7 @@
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 
 def get_project_root() -> Path:
     import git
@@ -9,3 +11,8 @@ def get_project_root() -> Path:
 
 ROOT = get_project_root()
 DATA_DIR = ROOT / "data"
+MODELS_DIR = ROOT / "models"
+
+
+def load_env():
+    return load_dotenv(ROOT / ".env")
